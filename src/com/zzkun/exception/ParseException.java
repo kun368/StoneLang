@@ -1,4 +1,6 @@
-package com.zzkun;
+package com.zzkun.exception;
+
+import com.zzkun.Token;
 
 import java.io.IOException;
 
