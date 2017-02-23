@@ -1,4 +1,4 @@
-package com.zzkun;
+package stone;
 
 import javax.swing.*;
 import java.io.*;

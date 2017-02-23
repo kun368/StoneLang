@@ -1,6 +1,4 @@
-package com.zzkun;
-
-import com.zzkun.exception.ParseException;
+package stone;
 
 import java.io.IOException;
 import java.io.LineNumberReader;

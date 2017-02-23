@@ -1,6 +1,4 @@
-package com.zzkun;
-
-import com.zzkun.exception.StoneException;
+package stone;
 
 /**
  * Created by Administrator on 2017/2/20 0020.

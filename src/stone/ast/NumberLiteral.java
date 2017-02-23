@@ -1,6 +1,6 @@
-package com.zzkun.ast;
+package stone.ast;
 
-import com.zzkun.Token;
+import stone.Token;
 
 /**
  * Created by Administrator on 2017/2/21 0021.
