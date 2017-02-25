@@ -1,10 +1,10 @@
 package stone.ast;
 
 import stone.Lexer;
-import stone.ParseException;
 import stone.Parser;
 import stone.Parser.Operators;
 import stone.Token;
+import stone.exception.ParseException;
 
 import java.util.HashSet;
 

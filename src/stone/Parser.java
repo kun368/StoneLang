@@ -3,6 +3,7 @@ package stone;
 import stone.ast.ASTLeaf;
 import stone.ast.ASTList;
 import stone.ast.ASTree;
+import stone.exception.ParseException;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;
